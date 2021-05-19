@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @darius-dobrovolskas
-- 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Python
 - 📫 How to reach me darius.dobrovolskas@gmail.com
 
